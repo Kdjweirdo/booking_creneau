@@ -1,0 +1,15 @@
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/tina/.rvm/rubies/ruby-3.0.3/bin/ruby -I /Users/tina/.rvm/rubies/ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220222-13611-rsg1od.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20220222-13611-6x5ode/skiptrace/internal

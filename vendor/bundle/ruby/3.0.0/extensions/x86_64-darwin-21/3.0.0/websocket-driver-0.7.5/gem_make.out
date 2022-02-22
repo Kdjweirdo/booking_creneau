@@ -1,0 +1,15 @@
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/tina/.rvm/rubies/ruby-3.0.3/bin/ruby -I /Users/tina/.rvm/rubies/ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220222-13611-h50fb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/tina/environment/booking_creneau/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20220222-13611-6lndes
